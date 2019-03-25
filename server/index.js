@@ -10,7 +10,8 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.use('/api/v1', router);
 
 app.listen(port, () => {
-    console.log(`Dev app listening on port ${port}!`);
-  });
-  
-  export default app;
+  // eslint-disable-next-line no-console
+  console.log(`Dev app listening on port ${port}!`);
+});
+
+export default app;
