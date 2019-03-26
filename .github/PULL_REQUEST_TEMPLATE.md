@@ -1,9 +1,9 @@
-#### What does this PR do?
+#### Description
 
-#### Description of Task to be completed?
+#### Type of change
 
-#### Any background context you want to provide?
+#### How Has This Been Tested?
 
-#### What are the relevant Github Issues?
+#### Checklist:
 
-#### Questions:
+#### Pivotal Tracker
